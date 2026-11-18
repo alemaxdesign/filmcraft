@@ -1,0 +1,9 @@
+{
+  "name": "slg-ftc",
+  "description": "Personal FilmCraft skills for slg982009. Each skill is invoked as /slg-ftc:<name>.",
+  "author": {
+    "name": "slg982009"
+  },
+  "license": "MIT",
+  "version": "0.1.0"
+}
