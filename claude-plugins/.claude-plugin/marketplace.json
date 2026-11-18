@@ -1,0 +1,16 @@
+{
+  "name": "slg-ftc",
+  "owner": {
+    "name": "slg982009"
+  },
+  "metadata": {
+    "description": "Local marketplace for slg982009's personal Claude Code plugin."
+  },
+  "plugins": [
+    {
+      "name": "slg-ftc",
+      "source": "./slg-ftc",
+      "description": "Personal FilmCraft skills for slg982009."
+    }
+  ]
+}
