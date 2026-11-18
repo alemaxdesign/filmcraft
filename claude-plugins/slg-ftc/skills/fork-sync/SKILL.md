@@ -15,7 +15,7 @@ Three layers (the same strategy as PhotoCraft and LightCraft; rules in `CLAUDE.l
 
 Script: `fork-sync.sh` in this skill's base directory (in the repository,
 `claude-plugins/slg-ftc/skills/fork-sync/`), run from the repository root. Tests:
-`test-fork-sync.sh [WORKDIR]`, next to it (throwaway repos; pass `/Volumes/PhotoEditing/filmcraft-work/forksync-test`).
+`test-fork-sync.sh [WORKDIR]`, next to it (throwaway repos; pass `/Volumes/VideoEditing/filmcraft-work/forksync-test`).
 Both are copied from PhotoCraft's skill; keep the three copies (slg-ptc, slg-ltc, slg-ftc) in step.
 
 ## Sync

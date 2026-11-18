@@ -3,7 +3,7 @@
 # and a second clone standing in for GitHub's squash-merge). Usage: test-fork-sync.sh [WORKDIR]
 set -uo pipefail
 S="$(cd "$(dirname "$0")" && pwd)/fork-sync.sh"
-T=${1:-/Volumes/PhotoEditing/photocraft-work/forksync-test}
+T=${1:-/Volumes/VideoEditing/filmcraft-work/forksync-test}
 rm -rf "$T"; mkdir -p "$T"; cd "$T" || exit 1
 export GIT_AUTHOR_NAME=t GIT_AUTHOR_EMAIL=t@t GIT_COMMITTER_NAME=t GIT_COMMITTER_EMAIL=t@t GIT_CONFIG_GLOBAL=/dev/null
 pass=0 fail=0
